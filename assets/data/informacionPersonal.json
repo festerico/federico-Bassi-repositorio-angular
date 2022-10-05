@@ -1,0 +1,8 @@
+{
+    "nombre": "Federico",
+    "apellido": "Bassi",
+    "edad": 36,
+    "nacionalidad": "argentino",
+    "residencia": "San Carlos de Bariloche, Rio Negro, Argentina",
+    "skills": ["HTML", "CSS", "JS", "Angular", "Git"]
+}
